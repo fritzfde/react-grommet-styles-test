@@ -1,9 +1,16 @@
-button {
-  background: #fff;
+button, .button {
+  color: #61dafb;
+  border: 2px solid #61dafb;
+  padding: 5px 20px;
+  margin: 10px 0 25px;
+  font-weight: bold;
 }
-
-.button {
-  background: #aaa;
+button:hover, .button:hover {
+  box-shadow: none;
+  border: 2px solid #B7E2FB;
+  color: #000;
+  background: #B7E2FB;
+  font-weight: bold;
 }
 
 

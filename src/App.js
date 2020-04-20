@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Button className="button" label='Submit' onClick={() => {}} />
+        <Button className="button" label='Get this CSS work if you can!' onClick={() => {}} />
         <a
           className="App-link"
           href="https://reactjs.org"
